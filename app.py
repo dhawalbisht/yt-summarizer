@@ -16,7 +16,6 @@ load_dotenv()
 
 groq_api_key = os.getenv('GROQ_API_KEY')
 
-st.secrets["GROQ_API_KEY"]
 
 # Set page configuration
 st.set_page_config(
@@ -24,6 +23,7 @@ st.set_page_config(
     page_icon="📺",
     layout="centered"
 )
+st.secrets["GROQ_API_KEY"]
 
 # App title and description
 st.title("YouTube Video Summarizer")
