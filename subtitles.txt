@@ -1,0 +1,96 @@
+{'text': 'each day no matter how ordinary is', 'start': 3.32, 'duration': 4.88}
+{'text': 'supported by those who protect us near', 'start': 6.04, 'duration': 4.36}
+{'text': 'and', 'start': 8.2, 'duration': 2.2}
+{'text': 'far when challenges push the boundaries', 'start': 11.24, 'duration': 4.879}
+{'text': 'of time and', 'start': 13.759, 'duration': 5.921}
+{'text': 'space a brand new more powerful partner', 'start': 16.119, 'duration': 6.92}
+{'text': 'DJI doc 3 Rises to the', 'start': 19.68, 'duration': 6.32}
+{'text': 'occasion DJI doc 3 and the specially', 'start': 23.039, 'duration': 5.041}
+{'text': 'designed matrice 40 series drones', 'start': 26.0, 'duration': 4.519}
+{'text': 'feature significantly upgraded Hardware', 'start': 28.08, 'duration': 4.72}
+{'text': 'protection the dock operates smoothly', 'start': 30.519, 'duration': 6.72}
+{'text': 'from scorching 50° heat to Frid -30° C', 'start': 32.8, 'duration': 7.04}
+{'text': 'cold ensuring reliable performance in', 'start': 37.239, 'duration': 4.401}
+{'text': 'both summer and', 'start': 39.84, 'duration': 4.84}
+{'text': 'winter even in Strong Winds of up to 12', 'start': 41.64, 'duration': 5.599}
+{'text': 'm/s the drones can remain Airborne for', 'start': 44.68, 'duration': 4.24}
+{'text': 'up to 32', 'start': 47.239, 'duration': 5.401}
+{'text': 'minutes DJI dock 3 is the first DJI dock', 'start': 48.92, 'duration': 6.08}
+{'text': 'that supports vehicle mounted deployment', 'start': 52.64, 'duration': 4.239}
+{'text': 'with dual docks on one vehicle the', 'start': 55.0, 'duration': 3.6}
+{'text': 'drones are ready to take off as soon as', 'start': 56.879, 'duration': 4.2}
+{'text': 'the covers are open a single drone can', 'start': 58.6, 'duration': 4.959}
+{'text': 'fly forward for 54 minutes or operate', 'start': 61.079, 'duration': 5.4}
+{'text': 'for 18 minutes within a 10 km radius so', 'start': 63.559, 'duration': 5.041}
+{'text': 'one person can handle long distance low', 'start': 66.479, 'duration': 4.761}
+{'text': 'frequency or emergent operations for fix', 'start': 68.6, 'duration': 4.76}
+{'text': 'mounted deployment dock side selection', 'start': 71.24, 'duration': 4.12}
+{'text': 'is now more flexible by installing the', 'start': 73.36, 'duration': 4.399}
+{'text': 'new Dr rtk3 relay fixed deployment', 'start': 75.36, 'duration': 4.799}
+{'text': 'version at an elevated location whether', 'start': 77.759, 'duration': 4.36}
+{'text': 'in city streets with tall buildings or', 'start': 80.159, 'duration': 3.96}
+{'text': 'near communication Towers the signal', 'start': 82.119, 'duration': 4.36}
+{'text': 'quality of video transmission is ensured', 'start': 84.119, 'duration': 5.36}
+{'text': 'enhancing operational safety the matrice', 'start': 86.479, 'duration': 5.0}
+{'text': '4D series drones are compatible with the', 'start': 89.479, 'duration': 4.881}
+{'text': 'DJI RC plus2 Enterprise for manual', 'start': 91.479, 'duration': 5.241}
+{'text': 'operations and allow one drone to hover', 'start': 94.36, 'duration': 4.439}
+{'text': 'as a relay while the other flies further', 'start': 96.72, 'duration': 4.079}
+{'text': 'for operations cross Mountain', 'start': 98.799, 'duration': 4.0}
+{'text': 'inspections are now just as smooth as', 'start': 100.799, 'duration': 4.68}
+{'text': 'those conducted on flat ground the', 'start': 102.799, 'duration': 4.68}
+{'text': 'matrice 4D series drones can be used', 'start': 105.479, 'duration': 4.081}
+{'text': 'with obstacle sensing module for precise', 'start': 107.479, 'duration': 3.721}
+{'text': 'inspections of substations with', 'start': 109.56, 'duration': 4.08}
+{'text': 'intricate layouts they can also achieve', 'start': 111.2, 'duration': 4.64}
+{'text': 'high speed wire level obstacle avoidance', 'start': 113.64, 'duration': 4.2}
+{'text': 'during inspections for complex power', 'start': 115.84, 'duration': 4.559}
+{'text': 'line Crossings visible light cameras', 'start': 117.84, 'duration': 4.44}
+{'text': 'have seen major enhancements with', 'start': 120.399, 'duration': 4.04}
+{'text': 'improved foreground stabilization', 'start': 122.28, 'duration': 4.72}
+{'text': "whether it's a pin 10 m away or a sign", 'start': 124.439, 'duration': 5.561}
+{'text': "as far as 250 m in the distance it's all", 'start': 127.0, 'duration': 4.12}
+{'text': 'clearly', 'start': 130.0, 'duration': 4.239}
+{'text': 'visible as night falls powerful infrared', 'start': 131.12, 'duration': 4.88}
+{'text': 'and night vision capabilities become', 'start': 134.239, 'duration': 4.481}
+{'text': 'crucial for rescues the matrice 4D', 'start': 136.0, 'duration': 4.72}
+{'text': 'Series has added the night scene mode', 'start': 138.72, 'duration': 4.159}
+{'text': 'enabling night vision in both full color', 'start': 140.72, 'duration': 4.96}
+{'text': 'and black and white matrice 4td also has', 'start': 142.879, 'duration': 5.321}
+{'text': 'an N auxiliary light covering distances', 'start': 145.68, 'duration': 5.72}
+{'text': 'up to 100 m its infrared thermal camera', 'start': 148.2, 'duration': 5.6}
+{'text': 'accurately detects heat sources with uhr', 'start': 151.4, 'duration': 4.88}
+{'text': 'infrared', 'start': 153.8, 'duration': 2.48}
+{'text': 'image these Advanced features enhance', 'start': 156.959, 'duration': 4.881}
+{'text': 'rescue operations facilitating valuable', 'start': 159.319, 'duration': 5.84}
+{'text': 'insights in the event of an', 'start': 161.84, 'duration': 3.319}
+{'text': '[Applause]', 'start': 166.19, 'duration': 3.219}
+{'text': 'emergency multiple intelligent features', 'start': 169.72, 'duration': 4.72}
+{'text': "significantly enhance DJI doc 3's", 'start': 172.28, 'duration': 5.239}
+{'text': 'Automation and efficiency the matrice 4D', 'start': 174.44, 'duration': 5.159}
+{'text': 'series drones support five directional', 'start': 177.519, 'duration': 4.121}
+{'text': 'OB ble capture as well as terrain', 'start': 179.599, 'duration': 4.56}
+{'text': 'following even in rugged complex', 'start': 181.64, 'duration': 4.72}
+{'text': 'environments the drones automatically', 'start': 184.159, 'duration': 4.201}
+{'text': 'collect data to generate High Precision', 'start': 186.36, 'duration': 4.599}
+{'text': '3D models in Flight Hub 2 with the new', 'start': 188.36, 'duration': 4.239}
+{'text': 'automated flight route function the', 'start': 190.959, 'duration': 3.2}
+{'text': 'drones can automatically conduct', 'start': 192.599, 'duration': 3.801}
+{'text': 'inspections detect infrared temperature', 'start': 194.159, 'duration': 4.201}
+{'text': 'anomalies and obtain Geographic', 'start': 196.4, 'duration': 4.36}
+{'text': 'coordinates operators can also designate', 'start': 198.36, 'duration': 4.72}
+{'text': 'noo zones and subjects like vehicles and', 'start': 200.76, 'duration': 4.36}
+{'text': 'vessels can be detected and recorded by', 'start': 203.08, 'duration': 5.6}
+{'text': 'the Drone automatically', 'start': 205.12, 'duration': 3.56}
+{'text': 'the new intelligent change detection', 'start': 210.599, 'duration': 3.72}
+{'text': 'feature enables efficient periodical', 'start': 212.239, 'duration': 4.321}
+{'text': 'analysis of changes in an', 'start': 214.319, 'duration': 5.081}
+{'text': 'area operators are assisted in precise', 'start': 216.56, 'duration': 5.759}
+{'text': 'and intelligent operation', 'start': 219.4, 'duration': 6.68}
+{'text': 'management DJI doc 3 enables 24-hour all', 'start': 222.319, 'duration': 6.241}
+{'text': 'weather and all scenario responses', 'start': 226.08, 'duration': 4.64}
+{'text': 'ensuring Fearless dedication and', 'start': 228.56, 'duration': 4.44}
+{'text': 'uninterrupted performance marking the', 'start': 230.72, 'duration': 4.48}
+{'text': 'beginning of a new era of intelligent', 'start': 233.0, 'duration': 3.79}
+{'text': 'remote operations', 'start': 235.2, 'duration': 7.54}
+{'text': '[Music]', 'start': 236.79, 'duration': 5.95}
