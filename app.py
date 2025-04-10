@@ -15,7 +15,7 @@ load_dotenv()
 
 groq_api_key = os.getenv('GROQ_API_KEY')
 
-set.secrets["GROQ_API_KEY"]
+st.secrets["GROQ_API_KEY"]
 
 # Set page configuration
 st.set_page_config(
